@@ -33,7 +33,6 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/John%20the%20Ripper-red?style=for-the-badge"/>
 </p>
 
 
