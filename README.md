@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Suhail</h1>
 
 <h3 align="center">
-Cybersecurity Enthusiast | Cloud Security | Full Stack Developer
+Cybersecurity Enthusiast | Cloud Security | Network Security
 </h3>
 
 <p align="center">
