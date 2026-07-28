@@ -32,18 +32,17 @@
 </p>
 
 ## 💫 About Me
-<p align = "center">
-    <a href = "" target = "_blank">
-       <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height = "250px">
-    </a>
-</p>
-
 - 🎓 Computer Science Student
 - 🛡 Passionate about Cybersecurity & Cloud Security
 - ☁ Building an AI-Powered Multi-Cloud Security Platform
 - 🌐 Currently learning Networking, Linux & Threat Detection
 - 🚀 Exploring Open Source & Security Research
 - 🎯 Goal: Become a Cloud Security Engineer
+- <p align = "center">
+    <a href = "" target = "_blank">
+       <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height = "250px">
+    </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
