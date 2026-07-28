@@ -17,10 +17,6 @@
 <code>Network Security</code>
 </h3>
 
-<p align="center">
-🛡 Securing today's cloud for tomorrow's world.
-</p>
-
 ---
 
 ## 💻 Tech Stack
