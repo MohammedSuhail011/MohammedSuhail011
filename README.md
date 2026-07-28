@@ -11,10 +11,15 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 ## 💫 About Me
 
 🔹 Computer Science Student
+
 🔹 Passionate about Cybersecurity & Cloud Security
+
 🔹 Building AI-powered Multi Cloud Security Platform
+
 🔹 Learning Networking, Linux & Threat Detection
+
 🔹 Open Source Contributor
+
 🔹 Love solving real-world security problems
 
 <p align="center">
