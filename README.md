@@ -48,6 +48,10 @@
 🎯 Goal: Become a Cloud Security Engineer
 
 <br clear="right"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
+
 
 ## 🛠 Security Tools
 
@@ -85,10 +89,6 @@
 - 🕵 Threat Detection Dashboard
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
 
