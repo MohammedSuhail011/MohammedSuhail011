@@ -33,7 +33,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" width="280">
+<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" width="300">
 
 - 🎓 Computer Science Student
 - 🛡️ Passionate about Cybersecurity & Cloud Security
