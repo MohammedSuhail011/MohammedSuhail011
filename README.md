@@ -5,28 +5,18 @@
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
 
-
 <!-- ========================= BANNER ========================= -->
-
-<p align="center">
-  <img src="YOUR_GIF_URL" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Suhail</h1>
 
 <h3 align="center">
 Cybersecurity Enthusiast • Cloud Security • Network Security
 </h3>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,vscode,cloudflare&theme=dark" />
 </p>
-
----
 
 ## 💫 About Me
 
@@ -36,8 +26,6 @@ Cybersecurity Enthusiast • Cloud Security • Network Security
 - 🌐 Currently learning Networking, Linux & Threat Detection
 - 🚀 Exploring Open Source & Security Research
 - 🎯 Goal: Become a Cloud Security Engineer
-
----
 
 ## 🛠 Security Tools
 
@@ -61,7 +49,6 @@ Cybersecurity Enthusiast • Cloud Security • Network Security
 
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -72,7 +59,6 @@ Cybersecurity Enthusiast • Cloud Security • Network Security
 - 🌐 Packet Sniffer using Python
 - 🕵 Threat Detection Dashboard
 
----
 
 ## 🌐 Connect With Me
 
@@ -92,7 +78,6 @@ Cybersecurity Enthusiast • Cloud Security • Network Security
 
 </p>
 
----
 
 <p align="center">
 
