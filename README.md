@@ -7,11 +7,19 @@
 
 <!-- ========================= BANNER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Mohammed Suhail</h1>
+<h1 align="center">
+👨‍💻 Mohammed Suhail
+</h1>
 
 <h3 align="center">
-Cybersecurity Enthusiast • Cloud Security • Network Security
+<code>Cybersecurity Enthusiast</code> •
+<code>Cloud Security</code> •
+<code>Network Security</code>
 </h3>
+
+<p align="center">
+🛡 Securing today's cloud for tomorrow's world.
+</p>
 
 ---
 
