@@ -8,7 +8,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <h1 align="center">
-👨‍💻 Mohammed Suhail
+Hello it's Mohammed Suhail👨‍💻
 </h1>
 
 <h3 align="center">
