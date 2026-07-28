@@ -45,9 +45,7 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 🕵️ Threat Detection Dashboard
 
 <p align="center">
-<a [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-a50794336/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<a [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-a50794336/)"</a>
 
 <a href="https://github.com/MohammedSuhail011">
 <img src="https://skillicons.dev/icons?i=github"/>
