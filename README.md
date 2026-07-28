@@ -97,15 +97,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-suhail-a50794336/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MohammedSuhail011">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:mohammedsuhail461379@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
