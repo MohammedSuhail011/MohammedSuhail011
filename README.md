@@ -8,7 +8,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <h1 align="center">
-Hello, i'm Zain👨‍💻
+Hello, i'm Suhail👨‍💻
 </h1>
 
 <h3 align="center">
