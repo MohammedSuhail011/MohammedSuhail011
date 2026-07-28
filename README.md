@@ -83,7 +83,7 @@
 - 🌐 Packet Sniffer using Python
 - 🕵 Threat Detection Dashboard
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
 
