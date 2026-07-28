@@ -95,21 +95,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-suhail-a50794336/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
+  <img width="20" />
 
-<a href="https://www.linkedin.com/in/mohammed-suhail-a50794336/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+  <a href="https://github.com/MohammedSuhail011">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>
+  <img width="20" />
 
-
-<a href="https://github.com/MohammedSuhail011">
-  <img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-
-<a href="mailto:mohammedsuhail461379@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
+  <a href="mailto:mohammedsuhail461379@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
 </p>
 
 <p align="center">
