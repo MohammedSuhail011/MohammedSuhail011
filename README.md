@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 </h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,ubuntu,vscode,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,vscode,cloudflare&theme=dark" />
 </p>
 
 ## 💫 About Me
