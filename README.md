@@ -41,13 +41,13 @@ Cybersecurity Enthusiast | Cloud Security | Full Stack Developer
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?MohammedSuhail011=MohammedSuhail011&theme=tokyonight&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedSuhail011&theme=tokyonight&margin-w=15&row=2&column=4"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?MohammedSuhail011=MohammedSuhail011&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedSuhail011&theme=tokyo-night"/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/username/MohammedSuhail011/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ## 🚀 Featured Projects
