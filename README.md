@@ -37,9 +37,6 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 </p>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedSuhail011&theme=github_dark"/>
-
-
 ## 🚀 Featured Projects
 🛡 Multi Cloud Security Platform
 ☁ AI Cloud Risk Assessment Dashboard
