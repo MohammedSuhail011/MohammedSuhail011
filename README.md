@@ -79,7 +79,9 @@
 - 🌐 Packet Sniffer using Python
 - 🕵 Threat Detection Dashboard
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 ## 🌐 Connect With Me
 
@@ -99,7 +101,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 <p align="center">
 
