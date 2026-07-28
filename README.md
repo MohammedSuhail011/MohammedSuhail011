@@ -34,7 +34,7 @@
 ## 💫 About Me
 <p align = "center">
     <a href = "" target = "_blank">
-       <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" width="100" height = "250px">
+       <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height = "250px">
     </a>
 </p>
 
