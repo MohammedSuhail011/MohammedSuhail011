@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Cloud+Security+Researcher;Building+Innovative+Security+Solutions;Always+Learning+New+Things" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,ubuntu,vscode,cloudflare&theme=dark" />
 </p>
 
 ## 💫 About Me
@@ -22,9 +22,7 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 
 🔹 Love solving real-world security problems
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,ubuntu,vscode,cloudflare&theme=dark" />
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white"/>
