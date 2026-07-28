@@ -54,7 +54,7 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 </a>
 
 <a href="mailto:mohammedsuhail461379@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 </p>
 
