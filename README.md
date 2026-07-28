@@ -13,7 +13,6 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 
 ## 💫 About Me
 <h1 align="center">Hi 👋, I'm Mohammed Suhail</h1>
-
 🔹 Computer Science Student
 
 🔹 Passionate about Cybersecurity & Cloud Security
