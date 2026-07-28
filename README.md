@@ -33,9 +33,7 @@
 
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" width="280">
 
 - 🎓 Computer Science Student
 - 🛡️ Passionate about Cybersecurity & Cloud Security
@@ -44,15 +42,7 @@
 - 🚀 Exploring Open Source & Security Research
 - 🎯 Goal: Become a Cloud Security Engineer
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" width="300"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
