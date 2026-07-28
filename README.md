@@ -17,7 +17,9 @@
 <code>Network Security</code>
 </h3>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 ## 💻 Tech Stack
 
@@ -25,7 +27,9 @@
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,vscode,cloudflare&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 ## 💫 About Me
 
@@ -36,7 +40,9 @@
 - 🚀 Exploring Open Source & Security Research
 - 🎯 Goal: Become a Cloud Security Engineer
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 ## 🛠 Security Tools
 
@@ -60,7 +66,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+</p>
 
 ## 🚀 Featured Projects
 
