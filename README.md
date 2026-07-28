@@ -22,6 +22,6 @@ Become a Cloud Security Engineer.
 
 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,ubuntu,vscode,cloudflare,regex,md&theme=dark)
+[![My Skills]](https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,ubuntu,vscode,cloudflare,regex,md&theme=dark)
 
 
