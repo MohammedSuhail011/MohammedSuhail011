@@ -22,7 +22,6 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
