@@ -122,8 +122,3 @@ Hello, i'm Suhail👨‍💻
 
 </p>
 
-<p align="center">
-  <a href="https://mohammedsuhail011.github.io/cyber-game/">
-    <img src="https://img.shields.io/badge/🎮%20Play%20My%20Cyber%20Game-00FF88?style=for-the-badge">
-  </a>
-</p>
