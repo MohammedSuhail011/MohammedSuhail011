@@ -37,8 +37,7 @@
 - ☁ Building an AI-Powered Multi-Cloud Security Platform
 - 🌐 Currently learning Networking, Linux & Threat Detection
 - 🚀 Exploring Open Source & Security Research
-- 🎯 Goal: Become a Cloud Security Engineer
-- <p align = "center">
+- 🎯 Goal: Become a Cloud Security Engineer <p align = "center">
     <a href = "" target = "_blank">
        <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height = "250px">
     </a>
