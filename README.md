@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Suhail</h1>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN3Yms5azhyYXVsM3Nib2g2eXUwYzgxNWp2MWZ0dDVranN2NHpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif" width="100%">
+</p>
+
 <h3 align="center">
 Cybersecurity Enthusiast | Cloud Security | Network Security
 </h3>
