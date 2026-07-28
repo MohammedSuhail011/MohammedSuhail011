@@ -36,10 +36,8 @@ Cybersecurity Enthusiast | Cloud Security | Network Security
 <img src="https://img.shields.io/badge/John%20the%20Ripper-red?style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,java,react,mysql,html,css,js,docker,kali,vscode&theme=dark"/>
-</p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedSuhail011&theme=github_dark"/>
 
 
 ## 🚀 Featured Projects
