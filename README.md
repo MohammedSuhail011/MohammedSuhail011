@@ -81,20 +81,19 @@ Hello, i'm Suhail👨‍💻
 
 ## 🚀 Featured Projects
 <img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height="250px">
+
 - 🛡 Multi-Cloud Security Platform
 - ☁ AI Cloud Risk Assessment Dashboard
 - 🔒 Password Strength Checker
 - 📦 Image Encryption Tool
 - 🌐 Packet Sniffer using Python
 - 🕵 Threat Detection Dashboard
+
 <br clear="right"/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
-</p>
 
 ## 🌐 Connect With Me
 
