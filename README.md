@@ -116,6 +116,15 @@ Hello, i'm Suhail👨‍💻
 
 <p align="center">
 <p align="center">
+  <h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <sub>Tracking every commit across my journey.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 <p align="center">
