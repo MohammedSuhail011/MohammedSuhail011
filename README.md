@@ -9,7 +9,7 @@
 
 <h1 align="center">
   Hello, I'm Suhail 👨‍💻
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/mew-gif.gif" width="45px" alt="Mew"/>
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/mew-gif.gif" width="60px" alt="Mew"/>
 </h1>
 
 <h3 align="center">
