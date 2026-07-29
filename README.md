@@ -137,7 +137,7 @@
 ## ⭐ Thanks for visiting my profile!
 
 <p align="center">
-    "Securing today's cloud for tomorrow's world." 🛡️
+    Securing today's cloud for tomorrow's world.🛡️
 </p>  
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyMDRvdWVlajh0YWc2bWd0cDBsMW5iMHQyeXVwejhxZzh0cDV4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%">
