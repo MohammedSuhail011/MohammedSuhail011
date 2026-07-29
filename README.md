@@ -80,7 +80,8 @@ Hello, i'm Suhail👨‍💻
 </p>
 
 ## 🚀 Featured Projects
-<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/something-creepy.gif" height="250px">
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMya2JsbDU4enB5dmp0MWNwbGJleWNhZGw4ZHR2OTRhc2I5b3BxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zyFcsWHX2fdpyb5SBi/giphy.gif" height="250px">
 
 - 🛡 Multi-Cloud Security Platform
 - ☁ AI Cloud Risk Assessment Dashboard
@@ -90,6 +91,7 @@ Hello, i'm Suhail👨‍💻
 - 🕵 Threat Detection Dashboard
 
 <br clear="right"/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
