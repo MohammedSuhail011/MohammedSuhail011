@@ -124,9 +124,6 @@ Hello, i'm Suhail👨‍💻
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
 </p>
