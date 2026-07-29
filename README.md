@@ -8,7 +8,8 @@
 <!-- ========================= BANNER ========================= -->
 
 <h1 align="center">
-Hello, i'm Suhail👨‍💻
+  Hello, I'm Suhail 👨‍💻
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/mew-gif.gif" width="45px" alt="Mew"/>
 </h1>
 
 <h3 align="center">
