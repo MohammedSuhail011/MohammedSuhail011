@@ -80,7 +80,7 @@ Hello, i'm Suhail👨‍💻
 </p>
 
 ## 🚀 Featured Projects
-<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height="250px">
+<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/something-creepy.gif" height="250px">
 
 - 🛡 Multi-Cloud Security Platform
 - ☁ AI Cloud Risk Assessment Dashboard
