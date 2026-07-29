@@ -9,7 +9,7 @@
 
 <h1 align="center">
   👨‍💻Hello, I'm Suhail 
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/mew-gif.gif" width="60px" alt="Mew"/>
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/mew-gif.gif" width="60px" alt="Mew"/>
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 ## 💻 Tech Stack
@@ -29,12 +29,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 ## 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/galaxy.gif" height="250px">
+<img align="right" src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/galaxy.gif" height="250px">
 
 🎓 Computer Science Student
 
@@ -50,7 +50,7 @@
 
 <br clear="right"/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 ## 🚀 Featured Projects
@@ -94,7 +94,7 @@
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 
@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyMDRvdWVlajh0YWc2bWd0cDBsMW5iMHQyeXVwejhxZzh0cDV4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 
