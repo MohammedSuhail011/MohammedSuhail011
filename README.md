@@ -131,7 +131,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/output/github-snake-dark.svg" alt="Snake Animation" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
 
 ## ⭐ Thanks for visiting my profile!
