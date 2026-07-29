@@ -140,7 +140,7 @@
     "Securing today's cloud for tomorrow's world." 🛡️
 </p>  
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNmYXpqZWgzdmRwcmlyNGVzcm0yMXZwZHAyMWFmdjliaGVud253NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyMDRvdWVlajh0YWc2bWd0cDBsMW5iMHQyeXVwejhxZzh0cDV4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/pulse-border.gif" width="100%">
