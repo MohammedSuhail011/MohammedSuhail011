@@ -57,20 +57,7 @@
 
 ## 🛠 Security Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/>
-</p>
-
+<p align="center"> <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge"/> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/> <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge"/> </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohammedSuhail011/MohammedSuhail011/main/Asset/pulse-border.gif" width="100%">
 </p>
