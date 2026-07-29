@@ -137,7 +137,7 @@
 ⭐ **Thanks for visiting my profile!**
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lvMGExMHprdTUwY2h3Zmd6NzBkYWc3ODUyaXBhZWlqd2I4dHcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif" width="80%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNmYXpqZWgzdmRwcmlyNGVzcm0yMXZwZHAyMWFmdjliaGVud253NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/znFOMXuHVkV36qzdbJ/giphy.gif" width="80%">
 </p>
 <p align="center">
   "Securing today's cloud for tomorrow's world." 🛡️
