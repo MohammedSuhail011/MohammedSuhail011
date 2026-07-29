@@ -82,7 +82,7 @@
 
 ## 🚀 Featured Projects
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMya2JsbDU4enB5dmp0MWNwbGJleWNhZGw4ZHR2OTRhc2I5b3BxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zyFcsWHX2fdpyb5SBi/giphy.gif" height="250px">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWMya2JsbDU4enB5dmp0MWNwbGJleWNhZGw4ZHR2OTRhc2I5b3BxaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zyFcsWHX2fdpyb5SBi/giphy.gif" height="190px">
 
 - 🛡 Multi-Cloud Security Platform
 - ☁ AI Cloud Risk Assessment Dashboard
